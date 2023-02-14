@@ -37,7 +37,7 @@ function Header({}: Props) {
           target="_blank"
         />
         <SocialIcon
-          url="https://www.instagram.com/"
+          url="https://www.reddit.com/user/MissionJumpy5137"
           fgColor="gray"
           bgColor="transparent"
           target="_blank"
