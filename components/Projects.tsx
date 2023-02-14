@@ -110,7 +110,7 @@ function Projects({}: Props) {
             <h4 className="sm:text-4xl text-lg font-semibold text-center">
               {" "}
               <span className="underline decoration-[#f7ab0a]/50">
-                Case study 3 of 3:
+                Case Study 3 :
               </span>{" "}
               E-commerce
             </h4>
