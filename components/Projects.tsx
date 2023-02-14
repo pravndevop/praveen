@@ -115,18 +115,20 @@ function Projects({}: Props) {
               E-commerce
             </h4>
             <div className="flex justify-between">
-              <a
-                href="https://bank-modern-app-omega.vercel.app/"
+              <Link
+                href="https://ecommerce-three-dusky.vercel.app/"
                 className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                target="_blank"
               >
                 Demo
-              </a>
-              <a
-                href="https://github.com/pravndevop/bank_modern_app/tree/master/bank_modern_app"
+              </Link>
+              <Link
+                href="https://github.com/pravndevop/ecommerce"
                 className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                target="_blank"
               >
                 Source code
-              </a>
+              </Link>
             </div>
           </div>
         </div>
