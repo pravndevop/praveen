@@ -13,7 +13,7 @@ function About({}: Props) {
       transition={{ duration: 1.5 }}
       className="flex flex-col relative h-screen text-center md:text-left md:flex-row max-w-7xl px-10 justify-evenly mx-auto items-center"
     >
-      <h3 className="absolute top-24 uppercase tracking-[20px] text-gray-500 sm:text-3xl text-md">
+      <h3 className="absolute top-24 uppercase tracking-[20px] text-gray-500 sm:text-3xl text-lg">
         About
       </h3>
 
@@ -37,13 +37,13 @@ function About({}: Props) {
           className="mb-0 mt-20 md:mt-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-45 md:h-95 xl:w-[2000px] xl:h-[600px]"
         />
       </motion.div>
-      <div className="space-y-10 px-0 md:px-10 ">
-        <h4 className="text-4xl font-semibold">
+      <div className="sm:space-y-10 space-y-2 px-0 md:px-10 ">
+        <h4 className="sm:text-4xl text-2xl font-semibold">
           Here is a{" "}
           <span className="underline decoration-[#F7AB0A]/50">little</span>{" "}
           Background
         </h4>
-        <p className="text-base">
+        <p className="sm:text-base text-sm">
           A dedicated software engineer focusing on trending technologies like
           IoT, RFID, label and barcode software development, AIDC and industry
           4.0 and familiar with UI/UX design and development, usage of scripting

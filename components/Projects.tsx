@@ -39,14 +39,14 @@ function Projects({}: Props) {
             <div className="flex justify-between">
               <Link
                 href="https://bank-modern-app-omega.vercel.app/"
-                className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                className="bg-[#f7ab0a] sm:py-3 py-1 sm:px-6 px-2 rounded-md text-black font-bold sm:text-md text-sm"
                 target="_blank"
               >
                 Demo
               </Link>
               <Link
                 href="https://github.com/pravndevop/bank_modern_app/tree/master/bank_modern_app"
-                className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                className="bg-[#f7ab0a] sm:py-3 py-1 sm:px-6 px-2 rounded-md text-black font-bold sm:text-md text-sm"
                 target="_blank"
               >
                 Source code
@@ -78,14 +78,14 @@ function Projects({}: Props) {
             <div className="flex justify-between">
               <Link
                 href="https://movie-website-vkrw.vercel.app/"
-                className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                className="bg-[#f7ab0a] sm:py-3 py-1 sm:px-6 px-2 rounded-md text-black font-bold sm:text-md text-sm"
                 target="_blank"
               >
                 Demo
               </Link>
               <Link
                 href="https://github.com/pravndevop/movie-website"
-                className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                className="bg-[#f7ab0a] sm:py-3 py-1 sm:px-6 px-2 rounded-md text-black font-bold sm:text-md text-sm"
                 target="_blank"
               >
                 Source code
@@ -117,14 +117,14 @@ function Projects({}: Props) {
             <div className="flex justify-between">
               <Link
                 href="https://ecommerce-three-dusky.vercel.app/"
-                className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                className="bg-[#f7ab0a] sm:py-3 py-1 sm:px-6 px-2 rounded-md text-black font-bold sm:text-md text-sm"
                 target="_blank"
               >
                 Demo
               </Link>
               <Link
                 href="https://github.com/pravndevop/ecommerce"
-                className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                className="bg-[#f7ab0a] sm:py-3 py-1 sm:px-6 px-2 rounded-md text-black font-bold sm:text-md text-sm"
                 target="_blank"
               >
                 Source code
