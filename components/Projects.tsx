@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 type Props = {};
+import Link from "next/link";
 
 function Projects({}: Props) {
   return (
@@ -31,23 +32,25 @@ function Projects({}: Props) {
             <h4 className="sm:text-4xl text-lg font-semibold text-center">
               {" "}
               <span className="underline decoration-[#f7ab0a]/50">
-                Case study 1 of 3:
+                Case Study 1 :
               </span>{" "}
-              Modern bank app
+              Modern Bank App
             </h4>
             <div className="flex justify-between">
-              <a
+              <Link
                 href="https://bank-modern-app-omega.vercel.app/"
                 className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                target="_blank"
               >
                 Demo
-              </a>
-              <a
+              </Link>
+              <Link
                 href="https://github.com/pravndevop/bank_modern_app/tree/master/bank_modern_app"
                 className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                target="_blank"
               >
                 Source code
-              </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -68,23 +71,25 @@ function Projects({}: Props) {
             <h4 className="sm:text-4xl text-lg font-semibold text-center">
               {" "}
               <span className="underline decoration-[#f7ab0a]/50">
-                Case study 2 of 3:
+                Case Study 2 :
               </span>{" "}
               Movie Website
             </h4>
             <div className="flex justify-between">
-              <a
-                href="https://bank-modern-app-omega.vercel.app/"
+              <Link
+                href="https://movie-website-vkrw.vercel.app/"
                 className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                target="_blank"
               >
                 Demo
-              </a>
-              <a
-                href="https://github.com/pravndevop/bank_modern_app/tree/master/bank_modern_app"
+              </Link>
+              <Link
+                href="https://github.com/pravndevop/movie-website"
                 className="bg-[#f7ab0a] sm:py-3 py-1 px-6 rounded-md text-black font-bold sm:text-md text-sm"
+                target="_blank"
               >
                 Source code
-              </a>
+              </Link>
             </div>
           </div>
         </div>
