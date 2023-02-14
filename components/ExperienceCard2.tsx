@@ -14,7 +14,7 @@ function ExperienceCard({}: Props) {
         alt="exp"
       />
       <div className="px-0 md:px-10">
-        <h4 className="sm:text-4xl text-md font-light">Full Stack Developer(intern)</h4>
+        <h4 className="sm:text-4xl text-md font-light">Full Stack Developer(trainee)</h4>
         <p className="font-bold sm:text-2xl text-sm mt-1">
           EDYODA (Zekelabs Technologies Pvt Ltd.)
         </p>
