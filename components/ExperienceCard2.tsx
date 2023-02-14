@@ -1,5 +1,5 @@
 import React from "react";
-import exp2 from "../assets/edyoda_transparent_logo.55bcc00f.png"
+import exp2 from "../assets/edyoda.jpeg"
 import Image from "next/image";
 type Props = {};
 
