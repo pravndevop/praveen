@@ -1,5 +1,5 @@
 import React from "react";
-import exp1 from "../assets/Nextep logo.jpg"
+import exp1 from "../assets/channels4_profile.jpg"
 import Image from "next/image";
 type Props = {};
 
