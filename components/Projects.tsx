@@ -45,7 +45,7 @@ function Projects({}: Props) {
                 Demo
               </Link>
               <Link
-                href="https://github.com/pravndevop/bank_modern_app/tree/master/bank_modern_app"
+                href="https://github.com/pravndevop/bank_modern_app"
                 className="bg-[#f7ab0a] sm:py-3 py-1 sm:px-6 px-2 rounded-md text-black font-bold sm:text-md text-sm"
                 target="_blank"
               >
@@ -84,7 +84,7 @@ function Projects({}: Props) {
                 Demo
               </Link>
               <Link
-                href="https://github.com/pravndevop/bank_modern_app"
+                href="https://github.com/pravndevop/movie-website"
                 className="bg-[#f7ab0a] sm:py-3 py-1 sm:px-6 px-2 rounded-md text-black font-bold sm:text-md text-sm"
                 target="_blank"
               >
