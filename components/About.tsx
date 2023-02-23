@@ -47,9 +47,9 @@ function About({}: Props) {
           A dedicated software engineer focusing on trending technologies like
           IoT, RFID, label and barcode software development, AIDC and industry
           4.0 and familiar with UI/UX design and development, usage of scripting
-          language and its library, and framework. I am interested in scrum and
-          agile project management methodologies. Passionate at Engineering,
-          project management, leadership, investing, innovation and startup.
+          language and its library, and framework. 
+          <br />
+          Stepping into Blockchain technology, creating NFTs, Web 3.0, and Ethereum products.
         </p>
       </div>
     </motion.div>
