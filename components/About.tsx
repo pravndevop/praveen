@@ -34,7 +34,7 @@ function About({}: Props) {
         <Image
           src={image}
           alt="img"
-          className="mb-0 mt-20 md:mt-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-45 md:h-95 xl:w-[2000px] xl:h-[600px]"
+          className="mb-0 mt-20 md:mt-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-45 md:h-95 xl:w-[3000px] xl:h-[600px]"
         />
       </motion.div>
       <div className="sm:space-y-10 space-y-2 px-0 md:px-10 ">
