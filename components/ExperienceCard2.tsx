@@ -24,20 +24,17 @@ function ExperienceCard({}: Props) {
         </p>
         <ul className="list disc space-y-4 ml-5 sm:text-lg text-xs">
           <li>
-            Design and establish user-friendly websites including optimized
-            check out page.
+          Developed and implemented front-end designs using HTML, CSS, and JavaScript to create responsive web pages and applications.
           </li>
           <li>
-            Formulated and implement improvements on cleanup process and
-            performance.
+          Optimized web pages for maximum speed and scalability to enhance user experience.
           </li>
           <li>
             Establish an interactive and dynamic websites that guarantees high
             traffic, page views, and maximum user experience.
           </li>
           <li>
-            Devised various custom responsive react sites from design comps that
-            include advanced react features.
+          Stayed up-to-date with the latest front-end development technologies and trends through self-learning and team training sessions.
           </li>
         </ul>
       </div>
