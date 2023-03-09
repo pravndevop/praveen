@@ -42,6 +42,12 @@ function Header({}: Props) {
           bgColor="transparent"
           target="_blank"
         />
+         <SocialIcon
+          url="https://github.com/pravndevop?tab=repositories"
+          fgColor="gray"
+          bgColor="transparent"
+          target="_blank"
+        />
       </motion.div>
 
       <motion.div
