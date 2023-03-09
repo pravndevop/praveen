@@ -44,12 +44,7 @@ function About({}: Props) {
           Background
         </h4>
         <p className="sm:text-base text-sm">
-          A dedicated software engineer focusing on trending technologies like
-          IoT, RFID, label and barcode software development, AIDC and industry
-          4.0 and familiar with UI/UX design and development, usage of scripting
-          language and its library, and framework. 
-          <br />
-          Stepping into Blockchain technology, creating NFTs, Web 3.0, and Ethereum products.
+        As a software engineer with expertise in front-end development, I am passionate about creating visually appealing and user-friendly interfaces that enhance the user experience. With 1 years of experience, I have a deep understanding of front-end technologies such as HTML, CSS, JavaScript, React, Tailwind and Bootstrap, and have worked on projects ranging from single-page applications to complex web applications. My skills in UI/UX design, prototyping, and testing enable me to create elegant solutions that meet business needs and exceed user expectations. With a strong focus on collaboration and continuous learning, I thrive in dynamic environments and enjoy working with cross-functional teams to deliver innovative solutions that drive business success.
         </p>
       </div>
     </motion.div>
