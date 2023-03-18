@@ -11,9 +11,17 @@ function Projects({}: Props) {
       transition={{ duration: 1.5 }}
       className="h-screen relative flex overflow-hidden flex-col text-left md:flex-row max-w-full justify-evenly mx-auto items-center z-0"
     >
-      <h3 className="absolute top-24 uppercase tracking-[20px] text-gray-500 sm:text-3xl text-sm">
-        Projects
-      </h3>
+      <div className="absolute top-24 uppercase tracking-[20px] text-gray-500 sm:text-3xl text-sm">
+       <h1>Projects</h1>
+       <div className="flex flex-row items-center justify-center gap-4 pt-10">
+        <p className="text-lg tracking-[0px] lowercase">Scroll To More</p>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-8 h-8 rounded-full flex items-center bg-[#f7ab0a] text-black">
+  <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3" />
+</svg>
+
+        </div> 
+      </div>
+      
       <div className="relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scroll-smooth">
         <div className="w-screen flex-shrink-0 snap-center flex flex-col space-y-5 items-center justify-center p-20 md:p-44 ">
           <motion.img

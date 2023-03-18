@@ -11,9 +11,9 @@ export default function Hero({}: Props) {
   const [text, count] = useTypewriter({
     words: [
       "Hi The Name's Praveen Puttappa",
-      "Thank-You-For-Visiting",
-      "Need Some-Thing!?",
-      "Then, Get-Connected!"
+      "Aspiring UX/UI Engineer",
+      "Featuring Blockchain/Web3.0"
+      
     ],
     loop: true,
     delaySpeed: 2000,

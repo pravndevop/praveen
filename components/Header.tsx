@@ -36,12 +36,7 @@ function Header({}: Props) {
           bgColor="transparent"
           target="_blank"
         />
-        <SocialIcon
-          url="https://www.reddit.com/user/MissionJumpy5137"
-          fgColor="gray"
-          bgColor="transparent"
-          target="_blank"
-        />
+        
          <SocialIcon
           url="https://github.com/pravndevop?tab=repositories"
           fgColor="gray"
@@ -66,15 +61,13 @@ function Header({}: Props) {
       >
         {" "}
         <SocialIcon
-          className="cursor-pointer"
-          network="email"
           fgColor="gray"
           bgColor="transparent"
           target="_blank"
-          href="#contact"
+          url="https://drive.google.com/file/d/1ITzwEzuvsGgR66oVlPISYQoQNaf5iRSx/view?usp=sharing"
         />
         <p className="uppercase hidden md:inline-flex text-sm text-gray-400">
-          <Link href="mailto:praveenarya518@gmail.com">Get in Touch</Link>
+          <Link href="https://drive.google.com/file/d/1ITzwEzuvsGgR66oVlPISYQoQNaf5iRSx/view?usp=sharing" target="_blank">Resume</Link>
         </p>
         {/* </Link> */}
       </motion.div>
